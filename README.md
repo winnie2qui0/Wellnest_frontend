@@ -39,7 +39,7 @@ src/ ├── assets/ # Static assets (images, models, etc.) ├── componen
 
 ## 📽 Demo Video
 
-👉 [Click here to watch the demo]([(https://drive.google.com/file/d/1qi08N-vroGFlp0b__W9Z201iuonssLNx/view?usp=sharing))
+👉 **[Click here to watch the demo video](https://drive.google.com/file/d/1qi08N-vroGFlp0b__W9Z201iuonssLNx/view?usp=sharing)**  
 
 ---
 
